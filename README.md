@@ -2,7 +2,7 @@
 
 **Freelance full-stack developer** based in Cairo. I build complete websites, online stores and business systems — from database to payments to admin dashboard — and hand them over ready to run.
 
-I work in **Next.js, React, TypeScript and PostgreSQL**, and use AI coding agents (Claude Code, Cursor) inside a disciplined *spec → build → review → test* process. Everything I ship is **Arabic-first and bilingual**, with Egyptian payments (Paymob, Cash on Delivery, InstaPay) and WhatsApp automation built in.
+I work in **Next.js, React, TypeScript and PostgreSQL**, and use AI coding agents (Claude Code, Codex) inside a disciplined *spec → build → review → test* process. Everything I ship is **Arabic-first and bilingual**, with Egyptian payments (Paymob, Cash on Delivery, InstaPay) and WhatsApp automation built in.
 
 ---
 
@@ -26,7 +26,7 @@ Mireva and Lumen run on **CommerceOS**, a reusable white-label e-commerce engine
 **Backend:** Node.js · PostgreSQL · Supabase · Prisma · Auth.js · Redis  
 **Integrations:** Paymob · WhatsApp automation · Meta APIs · Cloudinary  
 **Quality & DevOps:** Playwright · unit & integration tests · Git · Vercel · Cloudflare  
-**AI:** Claude Code · Cursor · agentic & spec-driven development · prompt engineering
+**AI:** Claude Code · Codex · agentic & spec-driven development · prompt engineering
 
 ---
 
@@ -36,4 +36,4 @@ Have a website or system in mind?
 
 - **WhatsApp:** [+20 111 020 3939](https://wa.me/201110203939)
 - **Email:** omarworkacc61@gmail.com
-- **LinkedIn:** [omar-alamir](https://www.linkedin.com/in/omar-alamir-b05aa9242/)
+- **LinkedIn:** [Omar Al-Amir](https://www.linkedin.com/in/omar-al-amir-b05aa9242/)
