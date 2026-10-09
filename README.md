@@ -1,6 +1,6 @@
 ### Hi, I'm Omar Al-Amir 👋
 
-**Freelance full-stack developer** based in Cairo. I build complete websites, online stores and business systems — from database to payments to admin dashboard — and hand them over ready to run.
+**Freelance full-stack developer** based in Cairo. I build **booking systems and admin dashboards for service businesses** — clinics, salons, studios, tour and rental operators — plus online stores your team can run without a developer. Database, payments, reminders and admin, handed over ready to run.
 
 I work in **Next.js, React, TypeScript and PostgreSQL**, and use AI coding agents (Claude Code, Codex) inside a disciplined *spec → build → review → test* process. Everything I ship is **Arabic-first and bilingual**, with Egyptian payments (Paymob, Cash on Delivery, InstaPay) and WhatsApp automation built in.
 
